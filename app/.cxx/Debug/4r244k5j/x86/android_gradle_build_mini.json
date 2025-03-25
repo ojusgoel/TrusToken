@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "D:\\AndroidStudioProjects\\trustoken_template-main\\trustoken_template-main\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.30.5\\bin\\ninja.exe",
+      "-C",
+      "D:\\AndroidStudioProjects\\trustoken_template-main\\trustoken_template-main\\app\\.cxx\\Debug\\4r244k5j\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.30.5\\bin\\ninja.exe",
+    "-C",
+    "D:\\AndroidStudioProjects\\trustoken_template-main\\trustoken_template-main\\app\\.cxx\\Debug\\4r244k5j\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-lib",
+      "abi": "x86",
+      "output": "D:\\AndroidStudioProjects\\trustoken_template-main\\trustoken_template-main\\app\\build\\intermediates\\cxx\\Debug\\4r244k5j\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

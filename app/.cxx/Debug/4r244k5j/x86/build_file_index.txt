@@ -1,0 +1,1 @@
+D:\AndroidStudioProjects\trustoken_template-main\trustoken_template-main\app\src\main\cpp\CMakeLists.txt

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/AndroidStudioProjects/trustoken_template-main/trustoken_template-main/app/.cxx/Debug/4r244k5j/x86_64",
+  "command": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/Admin/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c D:\\AndroidStudioProjects\\trustoken_template-main\\trustoken_template-main\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\AndroidStudioProjects\\trustoken_template-main\\trustoken_template-main\\app\\src\\main\\cpp\\native-lib.cpp",
+  "output": "CMakeFiles\\native-lib.dir\\native-lib.cpp.o"
+}
+]

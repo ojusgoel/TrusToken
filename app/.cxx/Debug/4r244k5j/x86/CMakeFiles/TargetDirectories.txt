@@ -1,0 +1,3 @@
+D:/AndroidStudioProjects/trustoken_template-main/trustoken_template-main/app/.cxx/Debug/4r244k5j/x86/CMakeFiles/native-lib.dir
+D:/AndroidStudioProjects/trustoken_template-main/trustoken_template-main/app/.cxx/Debug/4r244k5j/x86/CMakeFiles/edit_cache.dir
+D:/AndroidStudioProjects/trustoken_template-main/trustoken_template-main/app/.cxx/Debug/4r244k5j/x86/CMakeFiles/rebuild_cache.dir
